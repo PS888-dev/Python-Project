@@ -23,10 +23,10 @@ def main():
                 break
 
             else:
-                print("Please enter a valid choice (1-5).\n")
+                print("Please enter a valid choice (1-6).\n")
 
         except ValueError:
-            print('Please enter choice only (1-5).\n')
+            print('Please enter choice only (1-6).\n')
 
 
 if __name__ == "__main__":
